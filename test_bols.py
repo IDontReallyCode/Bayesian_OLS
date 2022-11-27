@@ -36,8 +36,8 @@ def main():
     #     betaha2, yha2 = BOLS.bayesian_ols_cupy.bglscp(xcp,ycp, priorcp, sdcp)
     # print(f"cupy took {time.perf_counter_ns()-start} ns for {N} repeats")
 
-    print(benchmark(BOLS.bayesian_ols_cupy.bglscp, (xcp,ycp, priorcp, sdcp), n_repeat=N))
     print(benchmark(BOLS.bayesian_ols_numba.bglsnp, (x,y, prior, sd), n_repeat=N))
+    print(benchmark(BOLS.bayesian_ols_cupy.bglscp, (xcp,ycp, priorcp, sdcp), n_repeat=N))
 
     gc.enable()
 
