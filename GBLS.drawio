@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T17:51:52.628Z" agent="5.0 (Windows)" etag="PdutgsuluSPBPbWZRBpA" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T18:26:09.088Z" agent="5.0 (Windows)" etag="l4CubQfXU9So3wE0SUi5" version="20.8.20" type="github">
   <diagram id="8w7YZ4xjxgCD99Zq2FTu" name="Page-1">
     <mxGraphModel dx="2284" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -171,7 +171,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u97PCP9npz-7n7jR1jk5-1" value="&lt;div&gt;The proper forecast&lt;/div&gt;&lt;div&gt;should include the &lt;br&gt;&lt;/div&gt;&lt;div&gt;distribution of the &lt;br&gt;&lt;/div&gt;&lt;div&gt;parameters&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="470" width="200" height="200" as="geometry" />
+          <mxGeometry x="-300" y="540" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="u97PCP9npz-7n7jR1jk5-2" value="&lt;div&gt;$$\Sigma_\delta$$&lt;/div&gt;&lt;div&gt;can be an estimated&lt;/div&gt;&lt;div&gt;hyperparmeter&lt;/div&gt;&lt;div&gt;by maximizing the&lt;/div&gt;&lt;div&gt;marginal likelihood&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
